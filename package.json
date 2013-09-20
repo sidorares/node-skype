@@ -1,5 +1,5 @@
 {
-  "name": "skypet",
+  "name": "skype",
   "version": "0.0.0",
   "description": "SkypeAPI client",
   "main": "index.js",
