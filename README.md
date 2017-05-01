@@ -1,6 +1,8 @@
 node-skype
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-skype.svg)](https://greenkeeper.io/)
+
 node.js SkypeAPI client
 
 
